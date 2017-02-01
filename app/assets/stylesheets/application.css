@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+ .game-icon{
+   font-size: 40px;
+ }
+ .panel-top{
+   padding-top: 40px;
+ }
